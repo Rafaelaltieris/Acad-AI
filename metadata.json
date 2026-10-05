@@ -1,0 +1,7 @@
+{
+  "name": "Pulse - Academia & Treinos",
+  "description": "Aplicativo fitness moderno com acompanhamento de treinos, fichas detalhadas, execução de exercícios com cronômetro de descanso e evolução corporal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
